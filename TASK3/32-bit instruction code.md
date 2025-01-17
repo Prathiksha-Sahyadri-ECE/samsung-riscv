@@ -1,7 +1,7 @@
 ---
-### 1. lui a0, 0x21  
+### 1. lui a0, 0x2121  
 Opcode(LUI): 0110111  
-Immediate (0x21 << 12): 0000000000100001  
+Immediate (0x2121): 001000010010  
 Register (rd): a0 = 01010  
 
 | imm[31:12]      | rd    | opcode  |
