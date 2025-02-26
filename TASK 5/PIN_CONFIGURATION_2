@@ -1,0 +1,29 @@
+## Components Required:
+
+1.VSD Squadronmini CH32V00x RISC V processor
+
+2.Ultrasonic sensor
+
+3.Buzzer
+
+4.Jumper wires
+
+5.Bread board
+
+## Pin Connections:
+
+### *Ultrasonic Sensor*
+| Pin | CH32V00x |
+|-----|----------|
+| TRIG| PC4      |
+| ECO | PC5      |
+| VCC | 3.3      |
+| GND | GND      |
+
+### *BUZZER*
+| Pin  | CH32V00x |
+|------|----------|
+| +    | PC7      |
+| -    | GND      |
+
+---
